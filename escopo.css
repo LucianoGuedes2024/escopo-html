@@ -1,0 +1,52 @@
+.cabecalho {
+    padding: 80px;
+    background-color: #ff9966 ;
+}
+
+.secao1 {
+    padding: 200px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+   background-image:url(imagens/Mario.webp);
+    
+    
+}
+
+
+.secao2{
+background-color: red;
+padding: 200px;
+}
+
+.div-pai{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 20px;
+}
+
+
+.div1{
+width: 200px;
+height: 200px;
+background-color:yellow ;
+
+}
+
+.div2{
+width: 200px;
+height:200px ;
+background-color: plum;
+
+}
+
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color:blue ;
+}
+
+    .rodape{
+  padding: 100px;
+  background-color: azure;
+
+    }
