@@ -7,14 +7,18 @@
     padding: 200px;
     background-repeat:no-repeat ;
     background-size: cover;
-   background-image:url(imagens/Mario.webp);
+    background-position: center;
+   background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/800px-Mario_Series_Logo.svg.png);
     
     
 }
 
 
 .secao2{
-background-color: red;
+background-image: url(https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/portals_3/2x1_SuperMarioHub_image1600w.jpg);
+background-repeat:no-repeat ;
+background-size: cover;
+background-position: center;
 padding: 200px;
 }
 
@@ -26,27 +30,28 @@ padding: 200px;
 
 
 .div1{
-width: 200px;
-height: 200px;
+width: 280px;
+height: 250px;
 background-color:yellow ;
 
 }
 
 .div2{
-width: 200px;
-height:200px ;
+width: 280px;
+height:250px;
 background-color: plum;
 
 }
 
 .div3{
-    width: 200px;
-    height: 200px;
+    width: 280px;
+    height: 250px;
     background-color:blue ;
 }
 
-    .rodape{
-  padding: 100px;
-  background-color: azure;
 
+
+    .rodape{
+        background-color: blue;
+        padding: 80px;
     }
