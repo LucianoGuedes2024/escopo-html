@@ -1,6 +1,9 @@
 .cabecalho {
     padding: 80px;
     background-color: #ff9966 ;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 4px 4px 4px black;
 }
 
 .secao1 {
@@ -26,6 +29,7 @@ padding: 200px;
     display: flex;
     justify-content: space-evenly;
     margin: 10px 20px;
+    
 }
 
 
@@ -33,20 +37,21 @@ padding: 200px;
 width: 280px;
 height: 250px;
 background-color:yellow ;
-
+box-shadow: 4px 4px 4px black;
 }
 
 .div2{
 width: 280px;
 height:250px;
 background-color: plum;
-
+box-shadow: 4px 4px 4px black;
 }
 
 .div3{
     width: 280px;
     height: 250px;
     background-color:blue ;
+    box-shadow: 4px 4px 4px black;
 }
 
 
@@ -54,4 +59,6 @@ background-color: plum;
     .rodape{
         background-color: blue;
         padding: 80px;
+        font-size: 25px;
+        color: white;
     }
